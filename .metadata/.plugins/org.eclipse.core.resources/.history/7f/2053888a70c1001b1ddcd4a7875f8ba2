@@ -1,0 +1,26 @@
+package com.enelx.claudio.braga.api.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
+
+import com.enelx.claudio.braga.domain.model.UrlShortener;
+import com.enelx.claudio.braga.domain.repository.UrlRepository;
+import com.enelx.claudio.braga.domain.service.CreateUrlShortenerService;
+
+@WebMvcTest
+public class UrlControllerTest {
+	
+	@Autowired
+	private UrlController urlController;
+	
+	@MockBean
+	private UrlRepository urlRepository;
+	
+	@MockBean
+	private UrlShortener urlShortener;
+	
+	@MockBean
+	private CreateUrlShortenerService UrlShortenerService;
+
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="UrlControllerTest" project="EnelxURLshortenerservice-api" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.enelx.claudio.braga.api.controller.UrlControllerTest" time="1.014" displayname="UrlControllerTest" uniqueid="[engine:junit-jupiter]/[class:com.enelx.claudio.braga.api.controller.UrlControllerTest]">
+    <testcase name="shouldReturnSuccess_WhenGetShortUrls" classname="com.enelx.claudio.braga.api.controller.UrlControllerTest" time="0.93" displayname="shouldReturnSuccess_WhenGetShortUrls()" uniqueid="[engine:junit-jupiter]/[class:com.enelx.claudio.braga.api.controller.UrlControllerTest]/[method:shouldReturnSuccess_WhenGetShortUrls()]"/>
+    <testcase name="shouldReturnBadRequest_WhenGivenOriginalUrl" classname="com.enelx.claudio.braga.api.controller.UrlControllerTest" time="0.084" displayname="shouldReturnBadRequest_WhenGivenOriginalUrl()" uniqueid="[engine:junit-jupiter]/[class:com.enelx.claudio.braga.api.controller.UrlControllerTest]/[method:shouldReturnBadRequest_WhenGivenOriginalUrl()]"/>
+  </testsuite>
+</testrun>

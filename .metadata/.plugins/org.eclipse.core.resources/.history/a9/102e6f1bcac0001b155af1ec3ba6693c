@@ -1,0 +1,5 @@
+package com.enelx.claudio.braga.domain.repository;
+
+public interface UrlRepository {
+
+}

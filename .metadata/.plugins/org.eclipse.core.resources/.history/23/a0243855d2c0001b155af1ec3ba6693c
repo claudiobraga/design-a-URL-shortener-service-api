@@ -1,0 +1,5 @@
+package com.enelx.claudio.braga.domain.exception;
+
+public class UrlShortenerException {
+
+}
