@@ -1214,3 +1214,51 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:16:50.609
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jJmujQxY => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:08.825
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:08.827
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3ea95f79[org.springframework.tooling.boot.ls:1.18.0.202005250744(id=676)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:08.829
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.212
+!MESSAGE Boot LS startup time from start to initialized: 2381ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.257
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zvfSyONnisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.259
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.260
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.261
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.262
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.264
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.265
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.266
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zvfSyONn => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.277
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.285
+!MESSAGE buffering callback sts4.classpath.zvfSyONn EnelxURLshortenerservice-api false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.286
+!MESSAGE executing callback sts4.classpath.zvfSyONn 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-31 03:28:11.337
+!MESSAGE executing callback sts4.classpath.zvfSyONn SUCCESS [done]
